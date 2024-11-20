@@ -135,18 +135,18 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`Product_id`, `Brand`, `Description`, `Price`, `Quantity`, `Image_url`, `Category`, `Rating`, `Discount`) VALUES
-(1, 'Nike', 'Men\'s Kyrie Infinity Basketball Shoe', 460, 5, 'images/product1.png', 'Men', 3, 5),
-(2, 'Nike', 'Men\'s Jordan', 500, 7, 'images/product2.png', 'Men', 4, 10),
-(3, 'Nike', 'Unisex Air Force 1', 660, 5, 'images/product3.png', 'Women', 5, 0),
-(4, 'Addidas', 'Tennis shoe ', 360, 14, 'images/product4.png', 'Women', 1, 0),
-(5, 'Puma', 'Casual Sneakers', 260, 14, 'images/product5.png', 'Kids', 2, 15),
-(6, 'Mango', 'Men\'s black boots', 160, 2, 'images/product6.png', 'Men', 1, 0),
-(7, 'Vance', 'black boot collection', 760, 4, 'images/product7.png', 'Women', 3, 0),
-(8, 'Nike', 'Men\'s zoom basketball shoes', 860, 3, 'images/product8.png', 'Men', 4, 50),
-(9, 'Nike', 'Men\'s Kyrie basketball shoes', 1060, 17, 'images/product9.png', 'Kids', 5, 70),
-(10, 'Nike', 'Men\'s Kyrie basketball shoes', 560, 13, 'images/main-nike-pic.png', 'Men', 0, 0),
-(12, 'Nike', 'exotic nike shoes', 5000, 10, './images/product10.png', 'Men', 1, 17),
-(13, 'Addidas', 'Kids Addidas sneakers', 98, 13, 'images/product11.png', 'Kids', 2, 12);
+(1, 'Jordan Why Not.4', 'Men\'s Kyrie Infinity Basketball Shoe', 669, 5, 'images/product1.png', 'Men', 4, 20),
+(2, 'Air Jordan Retro 4', 'Men\'s Jordan', 500, 7, 'images/product2.png', 'Men', 4, 10),
+(3, 'Nike Air Force 1', 'Unisex Air Force 1', 419, 5, 'images/product3.png', 'Women', 5, 0),
+(4, 'Adidas Originals Superstar', 'Tennis shoe ', 360, 14, 'images/product4.png', 'Women', 1, 0),
+(5, 'Puma Palermo', 'Casual Sneakers', 260, 14, 'images/product5.png', 'Kids', 2, 15),
+(6, 'Mango Chelsea Boots', 'Men\'s black boots', 160, 2, 'images/product6.png', 'Men', 3, 0),
+(7, 'Vans', 'black boot collection', 360, 4, 'images/product7.png', 'Women', 3, 0),
+(8, 'Nike Lebron's 19, 'Men\'s zoom basketball shoes', 600, 3, 'images/product8.png', 'Men', 3, 0),
+(9, 'Nike Kyrie 3', 'Men\'s Kyrie basketball shoes', 1060, 17, 'images/product9.png', 'Kids', 5, 70),
+(10, 'Nike Kyrie Infinity ', 'Men\'s Kyrie basketball shoes', 500, 13, 'images/main-nike-pic.png', 'Men', 5, 50),
+(12, 'Nike Mag 'Back To The Future'', 'exotic nike shoes', 5000, 10, './images/product10.png', 'Men', 1, 17),
+(13, 'Adidas Forum', 'Kids Addidas sneakers', 100, 13, 'images/product11.png', 'Kids', 2, 10);
 
 -- --------------------------------------------------------
 
